@@ -38,6 +38,8 @@
 ---
 
 ### 
+![snake gif](https://github.com/ugurberktas/ugurberktas/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ⭐️ *Ziyaret ettiğin için teşekkürler!*  
