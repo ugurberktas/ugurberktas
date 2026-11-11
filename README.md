@@ -20,16 +20,16 @@
 - ⚙️ CI/CD, Linux sistem yönetimi ve servis otomasyonu üzerine çalışıyorum.
 - 📊 Prometheus ve Grafana ile izleme ve observability çözümleri kuruyorum.
 - 🔐 Zero Trust yaklaşımı ve Cloudflare Tunnel ile güvenli ağ mimarileri tasarlıyorum.
-- 🧩 DevOps pratiğini backend, dağıtık sistemler ve güvenlik odaklı projelerle birleştiriyorum.
+- 🧩 DevOps pratiğini platform mühendisliği, dağıtık sistemler ve güvenlik odaklı projelerle birleştiriyorum.
 
 ## Öne çıkan projeler
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ugurberktas/Seta">Seta</a></h3>
-      <p>Resmî savunma ve güvenlik belgelerini izlenebilir tehdit analizlerine dönüştüren araştırma platformu.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Netlify</code></p>
+      <h3><a href="https://ugurberktas.com/#projeler">UstaSanayicim</a></h3>
+      <p>Oto sanayi işletmelerinin servis, iş emri, araç, müşteri, parça ve finans süreçlerini dijitalleştiren production seviyesinde multi-tenant SaaS platformu.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL RLS</code> <code>Supabase</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ugurberktas/opsradar">OpsRadar</a></h3>
@@ -44,9 +44,9 @@
       <p><code>Next.js</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Kong</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ugurberktas/TUA_Hackathon">Orbital Sense</a></h3>
-      <p>Güneş aktivitesinin kritik altyapılar üzerindeki etkisini izleyen uzay hava durumu ve varlık takip sistemi.</p>
-      <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>ML</code></p>
+      <h3><a href="https://ugurberktas.com/#projeler">Home-Lab &amp; Network Altyapısı</a></h3>
+      <p>Proxmox üzerinde sanallaştırılmış Linux sunucuları, güvenli dış erişim ve anlık sistem gözlemleme katmanından oluşan on-prem laboratuvar ortamı.</p>
+      <p><code>Proxmox</code> <code>Docker Swarm</code> <code>Cloudflare Zero Trust</code> <code>Grafana</code></p>
     </td>
   </tr>
 </table>
