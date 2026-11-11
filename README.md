@@ -22,35 +22,6 @@
 - 🔐 Zero Trust yaklaşımı ve Cloudflare Tunnel ile güvenli ağ mimarileri tasarlıyorum.
 - 🧩 DevOps pratiğini platform mühendisliği, dağıtık sistemler ve güvenlik odaklı projelerle birleştiriyorum.
 
-## Öne çıkan projeler
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://ugurberktas.com/#projeler">UstaSanayicim</a></h3>
-      <p>Oto sanayi işletmelerinin servis, iş emri, araç, müşteri, parça ve finans süreçlerini dijitalleştiren production seviyesinde multi-tenant SaaS platformu.</p>
-      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL RLS</code> <code>Supabase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ugurberktas/opsradar">OpsRadar</a></h3>
-      <p>Logları analiz eden, olayları ilişkilendiren ve incident yaşam döngüsünü yöneten local-first SRE paneli.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ugurberktas/FraudCell">FraudCell</a></h3>
-      <p>ML tabanlı risk skorlama, vaka atama ve olay odaklı iş akışları içeren mikroservis fraud inceleme MVP'si.</p>
-      <p><code>Next.js</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Kong</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://ugurberktas.com/#projeler">Home-Lab &amp; Network Altyapısı</a></h3>
-      <p>Proxmox üzerinde sanallaştırılmış Linux sunucuları, güvenli dış erişim ve anlık sistem gözlemleme katmanından oluşan on-prem laboratuvar ortamı.</p>
-      <p><code>Proxmox</code> <code>Docker Swarm</code> <code>Cloudflare Zero Trust</code> <code>Grafana</code></p>
-    </td>
-  </tr>
-</table>
-
 ## Teknoloji setim
 
 <p align="center">
